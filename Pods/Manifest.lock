@@ -1,0 +1,16 @@
+PODS:
+  - Leanplum-iOS-SDK (2.3.0)
+
+DEPENDENCIES:
+  - Leanplum-iOS-SDK (= 2.3.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Leanplum-iOS-SDK
+
+SPEC CHECKSUMS:
+  Leanplum-iOS-SDK: 1ac5d42b8cafe1fcd51f76efcf1f321704e5d807
+
+PODFILE CHECKSUM: 33c164d3fb5a355b0f9a92fc14da10747678a65d
+
+COCOAPODS: 1.7.4
